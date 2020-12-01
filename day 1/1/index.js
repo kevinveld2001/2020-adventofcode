@@ -9,7 +9,7 @@ for(i=0;i<data.length;i++){
 
 for(i=0;i<data.length;i++){
     for(a=0;a<data.length;a++){
-        console.log(data[i]+data[a]);
+        
         if((data[i]+data[a]) === 2020){
             console.log("======>  "+data[i]*data[a]);
             process.exit()
