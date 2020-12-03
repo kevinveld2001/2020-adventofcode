@@ -15,10 +15,7 @@ for(i=0;i<data.length;i++){
 var meheight = 0;
 var meright = 0;
 var treecount = 0;
-var treecount1 = 0;
-var treecount2 = 0;
-var treecount3 = 0;
-var treecount4 = 0;
+
 console.log('horizon '+horizon);
 
 function calcslope (y,x) {
