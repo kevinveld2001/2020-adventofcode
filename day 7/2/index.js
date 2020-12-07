@@ -1,5 +1,5 @@
 const fs = require("fs");
-const rawInput = fs.readFileSync(__dirname + "/testtestdata.txt");
+const rawInput = fs.readFileSync(__dirname + "/data.txt");
 
 
 var data = rawInput.toString().split("\r\n");
